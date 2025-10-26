@@ -10,7 +10,7 @@
 Hi! I’m **EX CODE** — a passionate developer focused on building real-world Android and Web applications.  
 I enjoy creating powerful apps with smooth UI, secure login systems, and smart backend features.
 
-- 🚀 Android + Django Developer  
+- 🚀 Android + Web Developer  
 - 🔐 Firebase Auth + Realtime Database for secure user management  
 - 🎨 Love creating unique, glowing UI designs  
 - 📚 Continuously improving my skills and exploring Machine Learning  
