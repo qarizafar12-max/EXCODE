@@ -39,10 +39,26 @@ I enjoy creating powerful apps with smooth UI, secure login systems, and smart b
 
 ---
 
-### 🎯 Current Projects
-- 🔸 Android Login + Admin Panel + Premium System
-- 🔸 Django E-Commerce Website (Mobiles & Accessories)
-- 🔸 Physics App (Solving problems + YouTube lectures)
+### 🏆 Completed Projects
+
+- 📱 **Android App – Login + Admin Panel + Premium System**
+  ✅ Firebase Authentication  
+  ✅ Realtime Database  
+  ✅ Auto-login with SharedPreferences  
+
+- 🧠 **Physics Solver App**
+  ✅ Solves physics numericals  
+  ✅ Shows English & Urdu YouTube lectures  
+
+- 🛍 **Django E-Commerce Website**
+  ✅ Admin upload panel  
+  ✅ Filter by category (Mobiles & Accessories)  
+
+- 🎥 **Live Desktop Wallpaper App**
+  ✅ Dynamic & animated wallpaper engine  
+
+- 🏪 **Shop Management System**
+  ✅ Billing, inventory, and customer record tracking  
 
 ---
 
