@@ -61,12 +61,13 @@ I enjoy creating powerful apps with smooth UI, secure login systems, and smart b
   ✅ Billing, inventory, and customer record tracking  
 
 ---
+### 🎯 Goals
 
-### 🚀 Goals
-- Create powerful apps that help people
-- Master advanced Android + Full Stack
-- Publish multiple apps on Play Store
-
+- 🔥 Improve advanced Android development skills  
+- 🌐 Become strong in full-stack web development with Django  
+- 🤖 Learn and apply Machine Learning in real-world apps  
+- 📱 Publish multiple apps on the Google Play Store  
+- 💼 Build software that solves real problems and helps people  
 ---
 
 <p align="center">
