@@ -7,10 +7,15 @@
 ---
 
 ### ⚡ About Me  
-🔹 Android + Web Developer  
-🔹 Building real apps using Firebase & Django  
-🔹 Passionate about problem-solving and UI creativity  
-🔹 Working on e-commerce + physics apps  
+Hi! I’m **EX CODE** — a passionate developer focused on building real-world Android and Web applications.  
+I enjoy creating powerful apps with smooth UI, secure login systems, and smart backend features.
+
+- 🚀 Android + Django Developer  
+- 🔐 Firebase Auth + Realtime Database for secure user management  
+- 🎨 Love creating unique, glowing UI designs  
+- 📚 Continuously improving my skills and exploring Machine Learning  
+- 🛍 Working on a full e-commerce app & a physics education project  
+- 🧠 Believe in learning by building — every day a new upgrade!
 
 ---
 
