@@ -63,12 +63,12 @@ I enjoy creating powerful apps with smooth UI, secure login systems, and smart b
 ---
 ### 🎯 Goals
 
-- 🐍 Become a strong and professional Python Developer  
-- 🤖 Build intelligent AI agents that can learn and take action  
-- 📱 Publish my own apps and tools to help real users  
-- 🌐 Improve my full-stack development skills (Django + APIs)  
-- 🚀 Keep learning and upgrading every single day
-  
+- 🐍 Become a Python Language Developer (contribute to CPython)
+- 🤖 Create intelligent AI agents that learn and take action
+- 🔧 Understand Python internals and performance optimization (C/Python)
+- 🚀 Build tools and applications that help real people
+- 🌍 Improve every day as a problem-solver and innovator
+
 ---
 
 <p align="center">
