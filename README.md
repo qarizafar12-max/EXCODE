@@ -1,78 +1,100 @@
-<h1 align="center">✨ EX CODE ✨</h1>
-<p align="center">
-  <b>Mobile & Web Developer</b><br>
-  Always Learning. Always Building. 🚀
-</p>
+# ✨ EX CODE ✨  
+Mobile & Web Developer | System Builder
 
 ---
 
-### ⚡ About Me  
-Hi! I’m **EX CODE** — a passionate developer focused on building real-world Android and Web applications.  
-I enjoy creating powerful apps with smooth UI, secure login systems, and smart backend features.
+## ⚡ Overview  
+I build production-ready Android and Web applications with a focus on clean architecture, secure systems, and scalable backend design.
 
-- 🚀 Android + Web Developer  
-- 🔐 Firebase Auth + Realtime Database for secure user management  
-- 🎨 Love creating unique, glowing UI designs  
-- 📚 Continuously improving my skills and exploring Machine Learning  
-- 🛍 Working on a full e-commerce app & a physics education project  
-- 🧠 Believe in learning by building — every day a new upgrade!
+My work revolves around turning complex ideas into functional, real-world software.
 
 ---
 
-### 🔥 Skills & Tools
-
-#### 📱 Mobile Development
-- Java | Android Studio
-- Firebase Authentication & Realtime Database
-- SharedPreferences (Auto login session)
-
-#### 💻 Web Development
-- Python | Django
-- HTML | CSS
-- Basic UI/UX design
-
-#### ⚙ Programming & Tech
-- Python Automation
-- OOP Concepts
-- C++
-- Learning Machine Learning 🤖
+## 🧠 Focus Areas  
+- Android application architecture (Java, Firebase)  
+- Backend systems using Python & Django  
+- Authentication systems & secure user flows  
+- Realtime databases & state management  
+- UI/UX systems with performance-focused design  
+- Automation, tooling, and workflow optimization  
 
 ---
 
-### 🏆 Completed Projects
+## 🚀 Technical Stack  
 
-- 📱 **Android App – Login + Admin Panel + Premium System**
-  ✅ Firebase Authentication  
-  ✅ Realtime Database  
-  ✅ Auto-login with SharedPreferences  
+### 📱 Mobile Development  
+- Java (Android Native)  
+- Android Studio  
+- Firebase Authentication  
+- Firebase Realtime Database  
+- Session management (SharedPreferences)  
 
-- 🧠 **Physics Solver App**
-  ✅ Solves physics numericals  
-  ✅ Shows English & Urdu YouTube lectures  
+### 💻 Backend & Web  
+- Python (Advanced usage)  
+- Django (Full-stack backend systems)  
+- REST API integration  
+- HTML | CSS  
 
-- 🛍 **Django E-Commerce Website**
-  ✅ Admin upload panel  
-  ✅ Filter by category (Mobiles & Accessories)  
-
-- 🎥 **Live Desktop Wallpaper App**
-  ✅ Dynamic & animated wallpaper engine  
-
-- 🏪 **Shop Management System**
-  ✅ Billing, inventory, and customer record tracking  
-
----
-### 🎯 Goals
-
-- 🐍 Become a Python Language Developer (contribute to CPython)
-- 🤖 Create intelligent AI agents that learn and take action
-- 🔧 Understand Python internals and performance optimization (C/Python)
-- 🚀 Build tools and applications that help real people
-- 🌍 Improve every day as a problem-solver and innovator
+### ⚙ Engineering & Systems  
+- Object-Oriented Design (OOP)  
+- System architecture thinking  
+- Automation scripting in Python  
+- Performance-aware development  
+- Ongoing exploration: Machine Learning & AI systems  
 
 ---
 
-<p align="center">
-  <b>🌟 Always open to collaboration and new ideas 🌟</b><br>
-  Let's build something amazing!
-</p>
+## 🏗️ Projects  
 
+### 📱 Android Systems  
+Authentication-based application system with:
+- Role-based login flow (User/Admin)  
+- Firebase Authentication integration  
+- Secure session handling  
+- Structured Realtime Database design  
+
+---
+
+### 🧠 Physics Solver System  
+- Problem-solving engine for physics numericals  
+- Educational integration with structured learning content  
+
+---
+
+### 🛍️ E-Commerce Backend (Django)  
+- Product management system  
+- Admin dashboard for uploads  
+- Category-based filtering system  
+- Backend-first architecture approach  
+
+---
+
+### 🎥 Desktop Utility Engine  
+- Lightweight dynamic wallpaper system  
+- Performance-optimized rendering pipeline  
+
+---
+
+### 🏪 Management System  
+- Billing and inventory control system  
+- Customer data tracking  
+- Structured CRUD operations  
+
+---
+
+## 🎯 Engineering Direction  
+- Build scalable, maintainable systems  
+- Design backend-first applications  
+- Improve architecture thinking and system structure  
+- Develop tools that solve real operational problems  
+- Move toward advanced backend + AI integration  
+
+---
+
+## 📌 Mindset  
+I focus on execution, structure, and real-world application — not experiments without direction.
+
+---
+
+## 🚀 Status  
+Actively building systems, improving architecture skills, and expanding into advanced backend engineering and AI-driven applications.
